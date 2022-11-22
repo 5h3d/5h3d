@@ -27,9 +27,9 @@ I am a Frontend Developer based in Lagos, Nigeria.
 - :email: udehshedrack.u@gmail.com
 
 
-#### Profile Visits 
+<!-- #### Profile Visits  -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=5h3d.5h3d)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=5h3d.5h3d) -->
 
 <details>
 <summary>
