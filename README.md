@@ -8,7 +8,6 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @ETH1ok
 - :computer: Most used line of code `git commit -m "Fixed bugs"`
 - 🤔 I love listening to ideas from people.
 - 📫 How to reach me: udehshedrack.u@gmail.com.
