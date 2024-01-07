@@ -11,7 +11,7 @@
 - :computer: Most used line of code `console.log('why are you not working!!!!', bugs)`
 - 🤔 I love listening to ideas from people.
 - 📫 How to reach me: udehshedrack.u@gmail.com.
-- ⚡ Fun fact: I loves music and games. what?!!! I am not that boring!! 😂
+- ⚡ Fun fact: I love music and games. what?!!! I am not that boring!! 😂
 
 #### Top Technologies
 
